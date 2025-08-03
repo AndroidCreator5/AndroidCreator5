@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndroidCreator5
-- 👀 I’m interested in App Inventor
-- 🌱 I’m currently learning python and DB script
+- 👀 I’m interested in App Inventor and Linux systems
+- 🌱 I’m currently learning python, Java and DB script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
