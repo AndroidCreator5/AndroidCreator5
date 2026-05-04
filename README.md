@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndroidCreator5
+- 👋 Hi, I’m Android_Creator and I am 18 years old
 - 👀 I’m interested in App Inventor and Linux systems
 - 🌱 I’m currently learning python, Java and DB script, Kotlin, C#
 - 💞️ I’m looking to collaborate on ...
